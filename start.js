@@ -6,8 +6,8 @@ var date  = new Date();
 var path = date+'';
 var tables = ["sys_script_include","sys_script"];
 var instanceName = "https://dev14396.service-now.com/";
-var u = "";
-var p = "";
+var u = ""; //username
+var p = ""; //password
 
 console.log("storing the xml's in the following path : " + path)
 
