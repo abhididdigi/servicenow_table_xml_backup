@@ -1,0 +1,15 @@
+{
+  "name": "backup_servicenow_tables",
+  "version": "0.0.1",
+  "description": "A tiny script to backup XMLs of tables in ServiceNow.",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mkdirp": "0.x.x",
+    "request": "2.x.x"
+  },
+  "author": "Abhiram Diddigi",
+  "license": "ISC"
+}
